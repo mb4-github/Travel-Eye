@@ -8,7 +8,7 @@
 - Download from github as ZIP file.
 - Download by : 
     ```bash
-        git clone path
+        git clone https://github.com/mb4-github/Travel-Eye.git
     ```
 ### Go to the project directory
 ```bash
